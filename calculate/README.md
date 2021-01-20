@@ -1,4 +1,4 @@
-This folder contains files used to compare 2,000 maps using similarity metrics.The general purpose of each file is as follows:
+This folder contains files used to compare 2,000 maps using similarity metrics. The general purpose of each file is as follows:
 
 multiprocess_kappa.ipynb - Calculates Kappa for all maps with parallel workers \
 multiprocess_multiclass.ipynb - Calculates Percentage Landscape and Total Class Area for all maps with parallel workers \
