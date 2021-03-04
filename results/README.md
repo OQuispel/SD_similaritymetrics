@@ -1,5 +1,6 @@
 This folder contains files that are used for clustering and performing CART analysis. The general purpose of each file is as follows:
 
+heatmap_qd_permutations.xlsx - Output file that contains the representative map comparisons for all map combinations and land-use categories
 results_CART.ipynb - Generates CART trees for all metrics \
 results_CARTvars.ipynb - Dives deeper into variable usage in CART for different similarity metrics \
 results_classes.ipynb - Visual comparison of categorical metrics \
